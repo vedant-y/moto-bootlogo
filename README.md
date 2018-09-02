@@ -4,6 +4,7 @@ Script to encode, decode Motorola boot logo binary file
 
 ### Requirements
 - [Python 3](https://python.org)
+- [Pillow](https://python-pillow.org)
 
 ### Usage
 - Decoding/Extracting
